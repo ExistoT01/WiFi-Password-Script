@@ -9,4 +9,4 @@ Wifi 密码获取脚本
 
 **output case: **
 
-<img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220716202302589.png" alt="image-20220716202302589" style="zoom:80%;" />
+<img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202207162024978.png" alt="image-20220716202302589" style="zoom:80%;" />
